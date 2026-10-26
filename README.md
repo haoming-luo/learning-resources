@@ -87,3 +87,4 @@ Article on how to write a scientific article: A step-by-step guide for beginners
 Introductory guide to using the citation manager Zotero.
 - [Zotero](https://www.zotero.org/), [zbib](https://zbib.org/), [doi2bib](https://www.doi2bib.org/)<br>
 Bibliography tools.
+
