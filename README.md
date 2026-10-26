@@ -11,6 +11,8 @@ Please [submit a PR](https://github.com/b-fg/learning-resources/compare) to cont
 ## Computational Fluid Dynamics & Numerical Methods
 - [12 steps to Navier-Stokes](https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)<br>
 Tutorial on how to build a Navier–Stokes solver using finite differences in 12 simple steps.
+- [AgentFEM finite-element exercises](https://lab.haoming-luo.com/learn/en.html)<br>
+Six introductory mechanics and heat-transfer exercises with AI-assistant prompts, computed reference results, analytical checks, and downloadable handouts. Running the exercises requires a local AgentFEM installation and an assistant with computation-tool access.
 - [Boundary layer theory](https://francescoambrogi.github.io/courses/my-blayer-course/)<br>
 Webpage on Prandtl boundary layer theory, and the analytical solution from Blasius (Prandtl's PhD student).
 - [Fluid Mechanics 101](https://www.youtube.com/@fluidmechanics101)<br>
@@ -85,4 +87,3 @@ Article on how to write a scientific article: A step-by-step guide for beginners
 Introductory guide to using the citation manager Zotero.
 - [Zotero](https://www.zotero.org/), [zbib](https://zbib.org/), [doi2bib](https://www.doi2bib.org/)<br>
 Bibliography tools.
-
